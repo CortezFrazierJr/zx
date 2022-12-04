@@ -55,7 +55,7 @@
     "@types/node": "^18.7.20",
     "@types/ps-tree": "^1.1.2",
     "@types/which": "^2.0.1",
-    "chalk": "^5.0.1",
+    "chalk": "^5.1.2",
     "fs-extra": "^10.1.0",
     "globby": "^13.1.2",
     "minimist": "^1.2.6",
